@@ -16,10 +16,10 @@ def load_config():
 
     return {
         'MOTHERDUCK_TOKEN': os.getenv('MOTHERDUCK_TOKEN'),
-        'SQL_FILE_PATH': '/Users/amirshareghi/Documents/projects/monthly-report-prep/exports_results.sql',
-        'OUTPUT_DIR': '/Users/amirshareghi/Documents/projects/monthly-report-prep/output',
-        'START_DATE': '2025-01-01T00:00:00Z',  # Update this before each run
-        'END_DATE': '2025-08-01T00:00:00Z',     # Update this before each run
+        'SQL_FILE_PATH': SQL_FILE_PATH,
+        'OUTPUT_DIR': OUTPUT_DIR,
+        'START_DATE': '2025-02-01T00:00:00Z',  # Update this before each run
+        'END_DATE': '2025-09-01T00:00:00Z',     # Update this before each run
         'REPORT_DATE': '2025-08-28'  # Default to today, e.g., 2025-08-28
     }
 

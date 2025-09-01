@@ -1,12 +1,12 @@
+# Configuration
+OUTPUT_DIR = 'output'  # Directory to save results (optional)
+RESULT_DIR = 'result'  # Directory to save the final merged result
+OUTPUT_FILE = 'all-lenders-exports.csv'
+
 import pandas as pd
 import os
 import csv
 from datetime import datetime
-
-# Configuration
-OUTPUT_DIR = '/Users/amirshareghi/Documents/projects/monthly-report-prep/output'
-RESULT_DIR = '/Users/amirshareghi/Documents/projects/monthly-report-prep/result'
-OUTPUT_FILE = 'all-lenders-exports.csv'
 
 def validate_directories(output_dir, result_dir):
     """Validate output and result directories existence and permissions."""
