@@ -15,7 +15,9 @@ It extracts loan and lender data from MotherDuck, generates per-lender CSV files
    - This merges all per-lender files into **one consolidated file**.  
    - The merged file is written to the `result/` folder.  
 
-3. **Tableau consumes** the file located in `result/`.  
+3. **Tableau consumes** the file located in `result/`. 
+
+4. **Tableau File Link** `https://drive.google.com/file/d/10jwZj2fuII1UX5IBG0J-Ua_IDcT4TUgF/view?usp=drive_link`
 
 ---
 
