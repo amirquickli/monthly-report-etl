@@ -1,0 +1,50 @@
+﻿Lender,Category,Tier,Tier Category,Link to Image
+anz,Major Bank,Tier 1,Major Bank,
+cba,Major Bank,Tier 1,Major Bank,https://drive.google.com/file/d/1smV2WR4jSli6ida3hS_jurqyLEZWYcsj/view?usp=drive_link
+macquarie,Challenger Bank,Tier 1,Major Bank,https://quickli.com.au/bank_logos/macquarie.png
+nab,Major Bank,Tier 1,Major Bank,https://drive.google.com/file/d/1ZlOZwt3QEUnqGfqOTRbz4Ry1drjVqz7K/view?usp=drive_link
+westpac,Major Bank,Tier 1,Major Bank,
+_86400,Neobank / Digital-only,Tier 2,,
+advantedge,Wholesale / Aggregator,Tier 2,,
+amp,Challenger Bank,Tier 2,,https://drive.google.com/file/d/1pHICcUOndxrpc-NHWo5YuJlHxI5xrPMx/view?usp=drive_link
+bankwest,Major Bank,Tier 2,,https://drive.google.com/file/d/1TKLzzE8WX61uKGaCqaFD96WqlwUcccgg/view?usp=drive_link
+bendigo,Challenger Bank,Tier 2,,
+ing,Challenger Bank,Tier 2,,
+mebank,Challenger Bank,Tier 2,,
+stgeorge,Major Bank,Tier 2,,
+suncorp,Challenger Bank,Tier 2,,
+adelaide,Challenger Bank,Tier 2,,https://quickli.com.au/bank_logos/adelaide.png
+boq,Challenger Bank,Tier 2,,
+hsbc,Challenger Bank,Tier 2,,
+bankaustralia,Mutual Bank / Credit Union,Tier 3,,
+bankofsydney,Challenger Bank,Tier 3,,
+beyond,Mutual Bank / Credit Union,Tier 3,,
+gateway,Mutual Bank / Credit Union,Tier 3,,
+gsb,Mutual Bank / Credit Union,Tier 3,,
+heritage,Mutual Bank / Credit Union,Tier 3,,
+mystate,Challenger Bank,Tier 3,,
+newcastleperm,Mutual Bank / Credit Union,Tier 3,,
+pnbank,Mutual Bank / Credit Union,Tier 3,,
+qudos,Mutual Bank / Credit Union,Tier 3,,
+teachersmutual,Mutual Bank / Credit Union,Tier 3,,
+virgin,Challenger Bank,Tier 3,,
+apollo,Non-Bank Lender,Tier 3,Non-Bank Lender,
+athena,Neobank / Digital-only,Tier 3,Non-Bank Lender,
+afg,Wholesale / Aggregator,Tier 4,Non-Bank Lender,
+bluestone,Specialist Lender,Tier 4,Non-Bank Lender,https://drive.google.com/file/d/1Fo7GvPv9Rh_fjP3NCL9hUfwktgL2E0nP/view?usp=drive_link
+brighten,Non-Bank Lender,Tier 4,Non-Bank Lender,
+firstmac,Non-Bank Lender,Tier 4,Non-Bank Lender,
+latrobe,Specialist Lender,Tier 4,Non-Bank Lender,
+liberty,Specialist Lender,Tier 4,Non-Bank Lender,
+mamoney,Non-Bank Lender,Tier 4,Non-Bank Lender,https://drive.google.com/file/d/1M_U0gIuQ6pnlBuJqhE6xbjb9m7njFT6Y/view?usp=drive_link
+pepper,Specialist Lender,Tier 4,Non-Bank Lender,
+redzed,Specialist Lender,Tier 4,Non-Bank Lender,
+resimac,Non-Bank Lender,Tier 4,Non-Bank Lender,
+thinktank,Specialist Lender,Tier 4,Non-Bank Lender,
+assetline,Non-Bank Lender,Tier 4,Private Lender,
+auswide,,Tier 4,Non-Bank Lender,
+vmg,Wholesale / Aggregator,Tier 4,Non-Bank Lender,
+wavemoney,Neobank / Digital-only,Tier 4,,
+wlth,Neobank / Digital-only,Tier 4,,
+compliance_calc,Wholesale / Aggregator,Unclassified,,
+ownhome,Specialist Lender,Unclassified,,
